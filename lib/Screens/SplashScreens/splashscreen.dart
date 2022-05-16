@@ -1,7 +1,6 @@
-
 import 'package:animated_splash_screen/animated_splash_screen.dart';
+import 'package:ease_video_player/Screens/SplashScreens/splashscreen2.dart';
 import 'package:ease_video_player/Screens/screen_functions/Screenwidgets/screenwidgets.dart';
-import 'package:ease_video_player/Screens/splashscreen2.dart';
 import 'package:ease_video_player/functions/search_files.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

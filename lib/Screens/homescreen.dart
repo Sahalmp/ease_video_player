@@ -1,6 +1,6 @@
 import 'package:adaptive_theme/adaptive_theme.dart';
+import 'package:ease_video_player/Screens/drawer%20section/otherscreens.dart';
 import 'package:ease_video_player/Screens/fileSection/filesscreen.dart';
-import 'package:ease_video_player/Screens/otherScreens.dart';
 import 'package:ease_video_player/Screens/SplashScreens/splashscreen.dart';
 import 'package:ease_video_player/Screens/playvideos/videoplay.dart';
 import 'package:ease_video_player/Screens/videoscreen.dart';
