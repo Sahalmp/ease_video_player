@@ -1,6 +1,5 @@
 import 'package:adaptive_theme/adaptive_theme.dart';
 import 'package:ease_video_player/Screens/SplashScreens/splashscreen.dart';
-import 'package:ease_video_player/Screens/splashscreen2.dart';
 import 'package:ease_video_player/db/models/favourite.dart';
 import 'package:ease_video_player/db/models/model.dart';
 import 'package:flutter/material.dart';
